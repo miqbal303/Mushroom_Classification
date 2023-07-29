@@ -38,9 +38,7 @@ Attribute Information: (classes: edible=e, poisonous=p)
 
 ## Architecture Flow
 
-![1690649324528](image/README/1690649324528.png)
-
-
+![1690652004185](image/README/1690652004185.png)
 
 ## EDA
 
