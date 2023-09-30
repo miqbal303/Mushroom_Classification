@@ -42,9 +42,9 @@ Attribute Information: (classes: edible=e, poisonous=p)
 
 Deployment_Link :-  http://mushroomapp-env.eba-8mhmmpg5.ap-south-1.elasticbeanstalk.com/
 
-![1696073559356](image/README/1696073559356.png)
+![1696074756539](image/README/1696074756539.png)
 
-![1696073612109](image/README/1696073612109.png)
+![1696074764451](image/README/1696074764451.png)
 
 
 ## EDA
