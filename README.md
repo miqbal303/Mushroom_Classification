@@ -113,7 +113,3 @@ Using Flask for the user interface, the web-based application accepts all mushro
 The tools used to build the model include Python with libraries like NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, and Flask was utilized as the web framework.
 
 ![1690572335076](image/README/1690572335076.png)
-
-
-
-https://www.linkedin.com/posts/mohammad-iqbal-1b347485_hey-linkedin-fam-im-thrilled-to-share-activity-7091499815192207360-sbt5?utm_source=share&utm_medium=member_desktop
