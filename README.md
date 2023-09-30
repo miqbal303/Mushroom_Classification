@@ -32,13 +32,20 @@ Attribute Information: (classes: edible=e, poisonous=p)
 * spore-print-color: black=k,brown=n,buff=b,chocolate=h,green=r,orange=o,purple=u,white=w,yellow=y
 * population: abundant=a,clustered=c,numerous=n,scattered=s,several=v,solitary=y
 * habitat: grasses=g,leaves=l,meadows=m,paths=p,urban=u,waste=w,woods=d
+  ---------------------------------------------------------------------
 * The dataset has 8,124 rows and 23 features included target.
 * Dataset has only categorical data.
 * The target variable determines whether a mushroom is classified as "edible" or "poisonous" based on its toxicity.
 
-## Architecture Flow
 
-![1690652004185](image/README/1690652004185.png)
+# AWS_Deployment:
+
+Deployment_Link :-  http://mushroomapp-env.eba-8mhmmpg5.ap-south-1.elasticbeanstalk.com/
+
+![1696073559356](image/README/1696073559356.png)
+
+![1696073612109](image/README/1696073612109.png)
+
 
 ## EDA
 
